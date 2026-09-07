@@ -1,9 +1,7 @@
 # intro no jutsu
 
-[![watch the video](https://img.youtube.com/vi/NrKxYr1UiWk/hqdefault.jpg)](https://www.youtube.com/embed/NrKxYr1UiWk)
-
-[<img src="https://img.youtube.com/vi/NrKxYr1UiWk/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/NrKxYr1UiWk)
+[watch the video](https://www.youtube.com/embed/NrKxYr1UiWk)
+<img src="https://img.youtube.com/vi/NrKxYr1UiWk/hqdefault.jpg">
 
 
 clone hero lyric editor
