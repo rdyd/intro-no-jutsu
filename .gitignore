@@ -1,0 +1,31 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# pyinstaller output - the built app goes on a release, not in the repo
+build/
+dist/
+*.zip
+
+# local settings the app rewrites at runtime (custom colors, last paths).
+# the committed setting.ini is the template that gets bundled into the build.
+setting.local.ini
+
+# internal handoff notes, not part of the shipped project
+HANDOFF.md
+
+# editor noise
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# test charts / audio you drop in while working
+notes.chart
+song.opus
+*.test.chart
+New folder*/

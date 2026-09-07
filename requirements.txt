@@ -1,0 +1,13 @@
+# python 3.11 - built and tested on 3.11.9
+#
+# the editor itself only needs the first two. numpy, onnxruntime and av
+# are the auto-sync worker, and audioop (stdlib on 3.11, gone in 3.13)
+# does the two-track mixing.
+PyQt5==5.15.11
+chardet
+numpy
+onnxruntime
+av
+
+# building the exe
+pyinstaller
