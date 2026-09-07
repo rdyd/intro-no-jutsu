@@ -1,5 +1,11 @@
 # intro no jutsu
 
+[![watch the video](https://img.youtube.com/vi/NrKxYr1UiWk/hqdefault.jpg)](https://www.youtube.com/embed/NrKxYr1UiWk)
+
+[<img src="https://img.youtube.com/vi/NrKxYr1UiWk/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/NrKxYr1UiWk)
+
+
 clone hero lyric editor
 
 a "fork" of [MasterThe8's eLJe | LyricJutsu Editor](https://masterthe8.github.io/eLJe-LyricJutsuEditor/), a closed source project this was heavily influenced by
@@ -25,7 +31,7 @@ or run it from source, see [building it](#building-it)
 edits the `[Events]` section of a `.chart` file. you open a chart, it strips out everything
 except the events, you edit the lyrics, you save it back. the rest of the chart is held onto
 untouched and stitched back in when you save. every other section comes back out byte for byte
-in the order it went in, including tracks this thing has never heard of.
+in the order it went in.
 
 if you try to close with unsaved changes it asks first. if theres nothing to save it just closes.
 
